@@ -1,1 +1,1 @@
-# Project-2---Spotify-Clone
+SPOTIFY CLONE BY USING HTML, CSS AND JAVASCRIPT.
