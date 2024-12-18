@@ -1,0 +1,81 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.item-center{
+    align-items: center;
+}
+
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: #1f1f1f;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Style for the scrollbar */
+::-webkit-scrollbar {
+    width: 10px; /* Scrollbar width */
+    height: 10px; /* Horizontal scrollbar height */
+  }
+  
+  /* Track (background) of the scrollbar */
+  ::-webkit-scrollbar-track {
+    background: #2d2d2d; /* Dark background for the track */
+    border-radius: 10px;
+  }
+  
+  /* Handle (thumb) of the scrollbar */
+  ::-webkit-scrollbar-thumb {
+    background: #555; /* Dark gray thumb color */
+    border-radius: 10px;
+    border: 2px solid #2d2d2d; /* Dark border around the thumb */
+  }
+  
+  /* Handle (thumb) on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #888; /* Lighten the thumb color on hover */
+  }
+  
+  /* Optional: style the horizontal scrollbar */
+  ::-webkit-scrollbar-horizontal {
+    height: 12px; /* Slightly bigger height for horizontal scrollbar */
+  }
+  
+  /* Optional: style the vertical scrollbar */
+  ::-webkit-scrollbar-vertical {
+    width: 12px; /* Slightly bigger width for vertical scrollbar */
+  }
+  
